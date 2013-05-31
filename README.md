@@ -1,3 +1,5 @@
+simInst
+=================
 A simple compiler that compile a simple assembly-like language to brainfuck.
 
 Instruction sets:
