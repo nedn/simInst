@@ -1,0 +1,8 @@
+inc r1 4
+LOOP:
+dec r1 1
+inc r3 2
+jz r1 DONE
+jz r2 LOOP
+DONE:
+disp r3
